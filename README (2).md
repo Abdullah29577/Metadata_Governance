@@ -22,7 +22,7 @@ The result is a 5-page Power BI dashboard that reports on the health, ownership,
 ![Overview](overview.png)
 
 ### Metadata Catalog
-![Catalog](catalog.png)
+https://github.com/Abdullah29577/Metadata_Governance/blob/bb86d79ec8c2bce8882bcad0142d4abcc76420ca/bussiness_assets%26stewardship.png
 
 ### Business Glossary
 ![Glossary](glossary.png)
