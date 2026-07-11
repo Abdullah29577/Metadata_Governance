@@ -287,5 +287,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Author
 
-**Mohammed Abdullah Abdul Basith Qureshi**
+**Mohammed Abdullah 
 Data Governance | Data Analytics | SQL | Power BI
